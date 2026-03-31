@@ -8,5 +8,8 @@ NIM  : H1H024045
 Kelas: B
 ```
 
+<video src="vdocs.mp4" width="600" height="300" controls>
+</video>
+
 Dokumentasi berupa video bisa dilihat di [sini](vdocs.mp4)<br />
 Tinkercad : [https://www.tinkercad.com/things/2E5N94VeGeC-traffic-light-4-way?sharecode=XPSBfZ32eOQQLbGMBjCvpTsaCj33DssBgScFKo1aPHs](https://www.tinkercad.com/things/2E5N94VeGeC-traffic-light-4-way?sharecode=XPSBfZ32eOQQLbGMBjCvpTsaCj33DssBgScFKo1aPHs)
