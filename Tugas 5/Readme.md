@@ -1,4 +1,4 @@
-# Source Code 4 Ways Traffic Light
+# Source Code Pedestrian Light
 
 ini merupakan source code untuk tugas mata kuliah Sistem Mikrokontroler, yaitu simulasi lampu pedestrian
 
